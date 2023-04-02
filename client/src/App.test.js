@@ -1,0 +1,1 @@
+it('render App.jsx', () => {});
